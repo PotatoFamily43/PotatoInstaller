@@ -1,3 +1,5 @@
 # PotatoInstaller
 
-This repository will be set up soon with the source code for Potato Installer. Please be patient :)
+The rar file has the source code and is able to open and see for yourself if you have Visual Studio installed.
+
+Visual Studio Website; https://visualstudio.microsoft.com
